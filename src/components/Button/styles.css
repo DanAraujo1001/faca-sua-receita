@@ -1,0 +1,17 @@
+.container__left__buttons__button {
+    width: 140px;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 12px solid #F3B256;
+    background-color: #D9D9D9;
+    border-radius: 25px;
+    box-shadow: 1px 1px 4px #3c1a01;
+}
+
+.container__left__buttons__button img {
+    width: 80px;
+}
+

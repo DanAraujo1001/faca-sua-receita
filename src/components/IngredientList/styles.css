@@ -1,0 +1,46 @@
+.container__right__ingredients {
+    width: 350px;
+    height: 300px;
+    background-color: rgba(243, 178, 86, 1);
+    border-radius: 25px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    box-shadow: 4px 2px 8px #3c1a01;
+}
+
+.container__right__ingredients h2 {
+    color: #3c1a01;
+    border-bottom: 2px solid #3c1a01;
+    padding-bottom: 5px;
+}
+
+.container__right__ingredients p {
+    color: #3c1a01;
+    font-size: 16px;
+}
+
+.ingredients__buttom {
+    display: flex; 
+}
+
+.ingredient-buttom {
+    width: 150px;
+    height: 80px;
+    box-shadow: none;
+}
+
+.ingredient-buttom img {
+    width: 45px;
+}
+
+.limpar {
+    background-color: red;
+}
+
+.confirmar {
+    background-color: green;
+}

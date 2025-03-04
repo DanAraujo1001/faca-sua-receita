@@ -1,0 +1,54 @@
+{
+    "recipes": [
+        {
+            "name": "Mousse de Chocolate com Morango",
+            "ingredients": ["Chocolate", "Leite Condensado", "Morango"],
+            "imagem": "recipes/receitaUm.png"
+        },
+        {
+            "name": "Coquinho de Chocolate",
+            "ingredients": ["Chocolate", "Coco Ralado", "Leite Condensado"],
+            "imagem": "recipes/receitaDois.png"
+        },
+        {
+            "name": "Palha Italiana",
+            "ingredients": ["Biscoito", "Chocolate", "Leite Condensado"],
+            "imagem": "recipes/receitaTres.png"
+        },
+        {
+            "name": "Trufa de Morango com Coco",
+            "ingredients": ["Chocolate", "Coco Ralado", "Morango"],
+            "imagem": "recipes/receitaQuatro.png"
+        },
+        {
+            "name": "Pavê de Chocolate e Morango",
+            "ingredients": ["Biscoito", "Chocolate", "Morango"],
+            "imagem": "recipes/receitaCinco.png"
+        },
+        {
+            "name": "Trufa Crocante",
+            "ingredients": ["Biscoito", "Chocolate", "Coco Ralado"],
+            "imagem": "recipes/receitaSeis.png"
+        },
+        {
+            "name": "Beijinho de Morango",
+            "ingredients": ["Coco Ralado", "Leite Condensado", "Morango"],
+            "imagem": "recipes/receitaSete.png"
+        },
+        {
+            "name": "Pavê de Morango",
+            "ingredients": ["Biscoito", "Leite Condensado", "Morango"],
+            "imagem": "recipes/receitaOito.png"
+        },
+        {
+            "name": "Pavê de Coco",
+            "ingredients": ["Biscoito", "Coco Ralado", "Leite Condensado"],
+            "imagem": "recipes/receitaNove.png"
+        },
+        {
+            "name": "Pavê de Morango e Coco",
+            "ingredients": ["Biscoito", "Coco Ralado", "Morango"],
+            "imagem": "recipes/receitaDez.png"
+        }
+    ]
+}
