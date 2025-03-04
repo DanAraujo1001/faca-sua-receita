@@ -50,11 +50,11 @@ function App() {
           <img className={classDinamicHeight} src={`../public/${recipeImage}`} alt="" />
         </span>
         <div className="container__left__buttons">
-          <Button className="container__left__buttons__button" value="Chocolate" src="../public/icons-button/chocolate.png" onClick={() => {handleAddIngredient("Chocolate")}} />
-          <Button className="container__left__buttons__button" value="Leite Condensado" src="../public/icons-button/leite-condensado.png" onClick={() => {handleAddIngredient("Leite Condensado")}} />
-          <Button className="container__left__buttons__button" value="Morango" src="../public/icons-button/morango.png" onClick={() => {handleAddIngredient("Morango")}} />
-          <Button className="container__left__buttons__button" value="Coco Ralado" src="../public/icons-button/coco.png" onClick={() => {handleAddIngredient("Coco Ralado")}} />
-          <Button className="container__left__buttons__button" value="Biscoito" src="../public/icons-button/biscoito.png" onClick={() => {handleAddIngredient("Biscoito")}} />
+          <Button className="container__left__buttons__button" value="Chocolate" src="/public/icons-button/chocolate.png" onClick={() => {handleAddIngredient("Chocolate")}} />
+          <Button className="container__left__buttons__button" value="Leite Condensado" src="/public/icons-button/leite-condensado.png" onClick={() => {handleAddIngredient("Leite Condensado")}} />
+          <Button className="container__left__buttons__button" value="Morango" src="/public/icons-button/morango.png" onClick={() => {handleAddIngredient("Morango")}} />
+          <Button className="container__left__buttons__button" value="Coco Ralado" src="/public/icons-button/coco.png" onClick={() => {handleAddIngredient("Coco Ralado")}} />
+          <Button className="container__left__buttons__button" value="Biscoito" src="/public/icons-button/biscoito.png" onClick={() => {handleAddIngredient("Biscoito")}} />
         </div>
       </div>
       <div className="container__right">

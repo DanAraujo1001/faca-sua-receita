@@ -9,8 +9,8 @@ const IngredientList = ({ array, clearFunction, confirmFunction }) => {
             <p key={index}>{item}</p>
         ))}
         <div className="ingredients__buttom">
-            <Button className="ingredient-buttom limpar" value="Limpar" src="../../public/trash-icon.png" onClick={clearFunction}/>
-            <Button className="ingredient-buttom confirmar" value="Confirmar" src="../../public/baker-icon.png" onClick={confirmFunction}/>
+            <Button className="ingredient-buttom limpar" value="Limpar" src="/public/trash-icon.png" onClick={clearFunction}/>
+            <Button className="ingredient-buttom confirmar" value="Confirmar" src="/public/baker-icon.png" onClick={confirmFunction}/>
         </div>
     </div>
     )
